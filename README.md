@@ -1,6 +1,4 @@
 # Geneticdiversity-area-relationship
 #Refining genetic diversity-area relationships by integrating nucleotide and haplotype diversity
 
-The code for calculating haplotype diversity and nucleotide are available on https://github.com/PingFan6/estimating-haplotype-diversity
-
-The R code "New_Grid_IUCN_polygons.R" is used to summary the species range size. When you using the code "New_Grid_IUCN_polygons.R" please cite:Miraldo, A., Li, S., Borregaard, M.K., Florez-Rodriguez, A., Gopalakrishnan, S., Rizvanovic, M., Wang, Z., Rahbek, C., Marske, K.A. & Nogues-Bravo, D. (2016) An Anthropocene map of genetic diversity. Science, 353, 1532-1535.
+The code for calculating haplotype diversity and nucleotide are available on https://doi.org/10.5281/zenodo.4722108. When you using the code please cite:Fan, P., Fjeldså, J., Liu, X., Dong, Y., Chang, Y., Qu, Y., . . . Lei, F. (2021). An approach for estimating haplotype diversity from sequences with unequal lengths. Methods in Ecology and Evolution, 12, 1658–1667. doi:10.1111/2041-210x.13643.
